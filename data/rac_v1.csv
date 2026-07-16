@@ -1,0 +1,132 @@
+ID,Acronym,Full_Form,Category,Sub_Category,Year,Origin,Domain,Confidence,Motivation
+1,GNU,GNU's Not Unix,Full_Recursive,Canonical,1983,Richard Stallman,OS,High,Humor/Identity
+2,YAML,YAML Ain't Markup Language,Full_Recursive,Canonical,2001,Clark Evans,Data_Format,High,Humor/Positioning
+3,WINE,WINE Is Not an Emulator,Full_Recursive,Canonical,1993,WineHQ Project,Software,High,Humor/Technical
+4,PyPI,Python Package Index,Partial_Recursive,Acronym,2003,Python Community,Package_Registry,Medium,Branding
+5,LAMP,Linux Apache MySQL PHP,Partial_Recursive,Acronym,1998,Michael Kunze,Web_Stack,High,Marketing
+6,Ruby,Ruby,Self_Referential,Loop,1993,Yukihiro Matsumoto,Programming_Lang,High,Identity
+7,RNA,Ribonucleic Acid,Self_Referential,Loop,1950s,Nature,Biochemistry,High,Natural_Science
+8,DNS,DNS,Loop_Recursive,Abbreviation,1983,IETF RFC 882,Networking,Medium,Protocol_Naming
+9,ZEN,Zero Effort Node,Partial_Recursive,Acronym,2015,Autodesk,Cloud_Computing,Medium,Marketing
+10,Redis,REmote DIctionary Server,Full_Recursive,Canonical,2009,Salvatore Sanfilippo,Database,High,Humor
+11,LOL,Laughing Out Loud,Full_Recursive,Canonical,1980s,Early Internet,Communication,High,Humor
+12,OMG,Oh My God,Full_Recursive,Canonical,1920s,Epigram,Communication,High,Expression
+13,ACK,ACK,Loop_Recursive,Abbreviation,1970s,ARPANET,Networking,Medium,Protocol_Naming
+14,NAK,Negative ACK,Loop_Recursive,Abbreviation,1970s,ARPANET,Networking,Medium,Protocol_Naming
+15,EINTR,Interrupted System Call,Loop_Recursive,Abbreviation,1970s,UNIX,OS,Medium,Error_Naming
+16,MASS,MASS,Loop_Recursive,Abbreviation,2014,Facebook,AI_Framework,Medium,OpenSource
+17,GIMPS,Great Internet Mersenne Prime Search,Full_Recursive,Canonical,1996,George Woltman,Distributed_Computing,High,Humor/Identity
+18,PING,PING,Loop_Recursive,Abbreviation,1983,Mike Muuss,Networking,Medium,Onomatopoeia
+19,PPTP,Point-to-Point Tunneling Protocol,Loop_Recursive,Abbreviation,1996,Microsoft,Networking,Medium,Protocol_Naming
+20,SIS,Software is Software,Full_Recursive,Canonical,1990s,Humor,Software,High,Humor
+21,ALGOL,Algorithmic Language,Partial_Recursive,Acronym,1958,ALGOL 58 Committee,Programming_Lang,High,Technical
+22,COBOL,Common Business-Oriented Language,Partial_Recursive,Acronym,1959,CODASYL,Programming_Lang,High,Business_Focus
+23,FORTRAN,Formula Translation,Partial_Recursive,Acronym,1957,IBM,Programming_Lang,High,Technical
+24,PASCAL,Pascal,Self_Referential,Loop,1970,Niklaus Wirth,Programming_Lang,High,Naming_Tribute
+25,ADA,Ada,Self_Referential,Named_After,1980,US DoD,Programming_Lang,Medium,Naming_Tribute
+26,ALU,Arithmetic Logic Unit,Partial_Recursive,Acbreviation,1945,John von Neumann,Hardware,High,Technical
+27,CPU,Central Processing Unit,Partial_Recursive,Acronym,1970s,IBM,Hardware,High,Technical
+28,GPU,Graphics Processing Unit,Partial_Recursive,Acronym,1999,NVIDIA,Hardware,High,Technical
+29,TPU,Tensor Processing Unit,Partial_Recursive,Acronym,2016,Google,Hardware,High,Technical
+30,API,Application Programming Interface,Partial_Recursive,Acronym,1960s,IBM,Software,High,Technical
+31,GUI,Graphical User Interface,Partial_Recursive,Acronym,1970s,Xerox PARC,Software,High,Usability
+32,CLI,Command Line Interface,Partial_Recursive,Acronym,1970s,UNIX,Software,High,Usability
+33,HTML,HyperText Markup Language,Partial_Recursive,Acronym,1989,Tim Berners-Lee,Web,High,Web_Technology
+34,CSS,Cascading Style Sheets,Partial_Recursive,Acronym,1996,Håkon Wium Lie,Web,High,Web_Technology
+35,JSON,JavaScript Object Notation,Partial_Recursive,Acronym,2001,Douglas Crockford,Data_Format,High,Humor/JavaScript
+36,XML,Extensible Markup Language,Partial_Recursive,Acronym,1996,W3C,Data_Format,High,Extensibility
+37,SQL,Structured Query Language,Partial_Recursive,Acronym,1974,IBM,Database,High,Query_Focus
+38,LISP,LISt Processing,Full_Recursive,Canonical,1958,John McCarthy,Programming_Lang,High,Technical
+39,REPL,Read-Eval-Print Loop,Full_Recursive,Canonical,1960s,LISP,Programming_Tools,High,Technical
+40,POP3,Post Office Protocol v3,Loop_Recursive,Abbreviation,1984,IETF RFC 918,Email,Medium,Protocol_Naming
+41,IMAP,Internet Message Access Protocol,Loop_Recursive,Abbreviation,1986,IETF RFC 1204,Email,Medium,Protocol_Naming
+42,SMTP,Simple Mail Transfer Protocol,Loop_Recursive,Abbreviation,1982,IETF RFC 821,Email,Medium,Protocol_Naming
+43,FTP,File Transfer Protocol,Loop_Recursive,Abbreviation,1971,IETF RFC 114,Networking,Medium,Protocol_Naming
+44,TCP,Transmission Control Protocol,Loop_Recursive,Abbreviation,1974,IETF RFC 793,Networking,Medium,Protocol_Naming
+45,UDP,User Datagram Protocol,Loop_Recursive,Abbreviation,1980,IETF RFC 768,Networking,Medium,Protocol_Naming
+46,HTTP,HyperText Transfer Protocol,Loop_Recursive,Abbreviation,1990,IETF RFC 1945,Web,Medium,Protocol_Naming
+47,URL,Uniform Resource Locator,Loop_Recursive,Abbreviation,1990,Tim Berners-Lee,Web,Medium,Protocol_Naming
+48,URI,Uniform Resource Identifier,Loop_Recursive,Abbreviation,1998,IETF RFC 2396,Web,Medium,Protocol_Naming
+49,ISP,Internet Service Provider,Loop_Recursive,Abbreviation,1980s,Various,Networking,Medium,Business
+50,GUI,Graphical User Interface,Loop_Recursive,Abbreviation,1970s,Xerox PARC,Software,High,Usability
+51,FAQ,Frequently Asked Questions,Full_Recursive,Canonical,1980s,Netnews,Documentation,High,Humor/Support
+52,IANAL,I Am Not A Lawyer,Full_Recursive,Canonical,1990s,USENET,Communication,High,Humor/Legal
+53,IMHO,In My Humble Opinion,Full_Recursive,Canonical,1980s,USENET,Communication,High,Humor/Modesty
+54,FWIW,For What It's Worth,Full_Recursive,Canonical,1980s,Military,Communication,High,Humor
+55,BTW,By The Way,Full_Recursive,Canonical,1980s,USENET,Communication,High,Humor
+56,FYI,For Your Information,Full_Recursive,Canonical,1940s,Military,Communication,High,Business
+57,ASAP,As Soon As Possible,Full_Recursive,Canonical,1940s,Military,Communication,High,Business
+58,ETA,Estimated Time of Arrival,Full_Recursive,Canonical,1940s,Aviation,Communication,High,Technical
+59,TBD,To Be Determined,Full_Recursive,Canonical,1970s,Business,Communication,High,Business
+60,TBA,To Be Announced,Full_Recursive,Canonical,1950s,Entertainment,Communication,High,Business
+61,WITH,Working In The House,Full_Recursive,Canonical,1990s,DIY,Communication,Medium,Hobby
+62,SCUBA,Self-Contained Underwater Breathing Apparatus,Full_Recursive,Canonical,1950s,Christian Jaeger,Diving,High,Technical
+63,RADAR,RAdio Detection And Ranging,Full_Recursive,Canonical,1940s,Navy,Military,High,Technical
+64,SONAR,SOund Navigation And Ranging,Full_Recursive,Canonical,1940s,Navy,Military,High,Technical
+65,CAPS,CAPS,Loop_Recursive,Abbreviation,1980s,Various,Software,Low,Formatting
+66,SHOUTY,SHOUTY,Loop_Recursive,Abbreviation,1990s,Internet,Communication,Low,Humor
+67,HAHA,HAHA,Loop_Recursive,Abbreviation,1990s,Internet,Communication,Low,Humor
+68,GRRRR,GRRRR,Loop_Recursive,Abbreviation,1990s,Internet,Communication,Low,Humor
+69,SIGH,SIGH,Loop_Recursive,Abbreviation,1990s,Internet,Communication,Low,Humor
+70,YT,YouTube,Partial_Recursive,Abbreviation,2005,YouTube,Social_Media,Medium,Branding
+70,LI,LinkedIn,Partial_Recursive,Abbreviation,2003,LinkedIn,Social_Media,Medium,Branding
+71,FB,Facebook,Partial_Recursive,Abbreviation,2004,Facebook,Social_Media,Medium,Branding
+72,GOOG,Google,Loop_Recursive,Abbreviation,1998,Google,Internet,Low,Branding
+73,MS,M S,Loop_Recursive,Abbreviation,1975,Microsoft,Software,Low,Branding
+74,IBM,International Business Machines,Loop_Recursive,Abbreviation,1924,IBM,Computing,Medium,Historical
+75,HP,Hewlett-Packard,Loop_Recursive,Abbreviation,1939,Hewlett-Packard,Hardware,Medium,Founders
+76,AWS,Amazon Web Services,Partial_Recursive,Acronym,2002,Amazon,Cloud,High,Cloud_Computing
+77,GCP,Google Cloud Platform,Partial_Recursive,Acronym,2008,Google,Cloud,High,Cloud_Computing
+78,Azure,Azure,Self_Referential,Named_After,2010,Microsoft,Cloud,Medium,Branding
+79,K8s,Kubernetes,Partial_Recursive,Abbreviation,2014,CNCF,Cloud,High,Cloud_Computing
+80,Docker,Docker,Partial_Recursive,Abbreviation,2013,Docker Inc,Cloud,High,Cloud_Computing
+81,CI/CD,Continuous Integration/Continuous Deployment,Full_Recursive,Canonical,1990s,Various,DevOps,High,Automation
+82,DevOps,Development Operations,Partial_Recursive,Acronym,2008,Patrick Debois,DevOps,High,Collaboration
+83,MLOps,Machine Learning Operations,Partial_Recursive,Acronym,2015,Various,MLOps,High,ML_Engineering
+84,AIOps,Artificial Intelligence for IT Operations,Full_Recursive,Canonical,2017,Gartner,DevOps,High,AI_Operations
+85,NoSQL,Not Only SQL,Full_Recursive,Canonical,1998,Carlo Strozzi,Database,High,Humor/Positioning
+86,TAOCP,The Art of Computer Programming,Partial_Recursive,Acronym,1968,Donald Knuth,Computer_Science,High,Academic
+87,TAOUP,The Art of UNIX Programming,Partial_Recursive,Acronym,2003,Eric S. Raymond,Programming,High,Academic
+88,CLAP,Command Line Audio Player,Full_Recursive,Canonical,2012,Various,Audio,Medium,OpenSource
+89,IRAF,Image Reduction and Analysis Facility,Partial_Recursive,Acronym,1986,NOAO,Astronomy,High,Technical
+90,MAMP,MAMP,Partial_Recursive,Acronym,2002,Appsavenue,Web_Stack,Medium,Web_Development
+91,WAMP,WAMP,Partial_Recursive,Acronym,2000s,Various,Web_Stack,Medium,Web_Development
+92,LEMP,LEMP,Partial_Recursive,Acronym,2010s,Various,Web_Stack,Medium,Web_Development
+93,XAMPP,XAMPP,Partial_Recursive,Acronym,2002,Apache Friends,Web_Stack,Medium,Web_Development
+94,MERN,MERN,Partial_Recursive,Acronym,2010s,Various,Web_Stack,High,Web_Development
+95,MEAN,MEAN,Partial_Recursive,Acronym,2010s,Various,Web_Stack,High,Web_Development
+96,FLOSS,Free/Libre and Open Source Software,Full_Recursive,Canonical,1998,Bruce Perens,OpenSource,High,Philosophy
+97,FOSS,Free and Open Source Software,Full_Recursive,Canonical,1998,RMS,OpenSource,High,Philosophy
+98,OSS,Open Source Software,Partial_Recursive,Acronym,1998,OSI,OpenSource,High,OpenSource
+99,LLVM,Low Level Virtual Machine,Full_Recursive,Canonical,2000,Vikram Adve,Compiler,High,Humor/Technical
+100,CUDA,Compute Unified Device Architecture,Full_Recursive,Canonical,2006,NVIDIA,GPU_Computing,High,Technical
+101,TPU,Tensor Processing Unit,Partial_Recursive,Acronym,2016,Google,AI_Hardware,High,AI
+102,TFX,TensorFlow Extended,Partial_Recursive,Acronym,2017,Google,MLOps,High,ML_Pipeline
+103,JAX,Just After eXecution,JAX_Recursive,Canonical,2018,Google Brain,ML_Framework,High,Humor
+104,KFP,Kubeflow Pipelines,Partial_Recursive,Acronym,2018,CNCF,MLOps,Medium,Cloud_Native
+105,MLIR,Multi-Level Intermediate Representation,Full_Recursive,Canonical,2019,LLVM Project,Compiler,High,Technical
+106,LLVM,Low-Level Virtual Machine,Partial_Recursive,Acronym,2000,Vikram Adve,Compiler,High,Technical
+107,E2E,End-to-End,Partial_Recursive,Abbreviation,1970s,Various,Networking,Medium,Technical
+108,HTTP,HYPERTEXT TRANSFER PROTOCOL,Partial_Recursive,Acronym,1990,IETF,Web,Medium,Protocol
+109,PING,PING,Loop_Recursive,Abbreviation,1983,Mike Muuss,Networking,Medium,Onomatopoeia
+110,HUP,HangUP,Loop_Recursive,Abbreviation,1970s,UNIX,OS,Medium,Signal
+111,RST,RST,Loop_Recursive,Abbreviation,1980s,Various,Networking,Low,Protocol
+112,ACK,ACK,Loop_Recursive,Abbreviation,1970s,ARPANET,Networking,Medium,Protocol
+113,SYN,SYN,Loop_Recursive,Abbreviation,1974,IETF,Networking,Medium,Protocol
+114,FIN,FIN,Loop_Recursive,Abbreviation,1974,IETF,Networking,Medium,Protocol
+115,SIG,SIG,Loop_Recursive,Abbreviation,1970s,UNIX,OS,Medium,Signal
+116,SIGINT,Signal INTerrupt,Full_Recursive,Canonical,1970s,UNIX,OS,High,Signal
+117,SIGTERM,Signal TERMinate,Full_Recursive,Canonical,1970s,UNIX,OS,High,Signal
+118,SIGKILL,Signal KILL,Full_Recursive,Canonical,1970s,UNIX,OS,High,Signal
+119,EOF,End Of File,Full_Recursive,Canonical,1960s,IBM,OS,High,File_Format
+120,STDIN,Standard INput,Full_Recursive,Canonical,1970s,UNIX,OS,High,IO
+121,STDOUT,Standard OUTput,Full_Recursive,Canonical,1970s,UNIX,OS,High,IO
+122,STDERR,Standard ERRor,Full_Recursive,Canonical,1970s,UNIX,OS,High,IO
+123,TTY,Teletype,Partial_Recursive,Abbreviation,1870s,Telegraph,Hardware,High,Historical
+124,PTTY,Physical TTY,Full_Recursive,Canonical,1970s,UNIX,OS,High,Hardware
+125,PTY,Pseudo-TTY,Full_Recursive,Canonical,1970s,UNIX,OS,High,Virtual
+126,DTR,Data Terminal Ready,Loop_Recursive,Abbreviation,1960s,RS-232,Hardware,Medium,Serial
+127,RTS,Request To Send,Loop_Recursive,Abbreviation,1960s,RS-232,Hardware,Medium,Serial
+128,CTS,Clear To Send,Loop_Recursive,Abbreviation,1960s,RS-232,Hardware,Medium,Serial
+129,DCD,Data Carrier Detect,Loop_Recursive,Abbreviation,1960s,RS-232,Hardware,Medium,Serial
+130,DTR,Data Terminal Ready,Loop_Recursive,Abbreviation,1960s,RS-232,Hardware,Medium,Serial
