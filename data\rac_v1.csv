@@ -1,0 +1,76 @@
+ID,Acronym,Full_Form,Category,Sub_Category,Year,Origin,Domain,Confidence,Motivation,Recursive_Marker,Examples
+1,GNU,GNU's Not Unix,Full_Recursive,Canonical,1983,Richard Stallman,OS,High,Humor/Identity,Not,Most famous
+2,YAML,YAML Ain't Markup Language,Full_Recursive,Canonical,2001,Clark Evans,Data_Format,High,Humor/Positioning,Ain't,Data serialization
+3,WINE,Wine Is Not an Emulator,Full_Recursive,Canonical,1993,Open Source,Compatibility,High,Humor,Not,Windows emulation
+4,PHP,PHP: Hypertext Preprocessor,Self_Referential,Canonical,1995,Rasmus Lerdorf,Language,High,Self-reference,Self,Web language
+5,LAME,LAME Ain't an MP3 Encoder,Full_Recursive,Canonical,1998,LAME Project,Audio,High,Self-deprecation,Ain't,Audio codec
+6,PINE,Pine Is Not Elm,Full_Recursive,Canonical,1989,University of Washington,Email,High,Humor,Not,Email client
+7,PNG,PNG's Not GIF,Full_Recursive,Defensive,1995,PNG Group,Image,Medium,Positioning vs GIF,Not,Image format
+8,HURD,Hird of Unix-Replacing Daemons,Loop_Recursive,Canonical,1990,GNU Project,Kernel,High,Identity,of,OS kernel
+9,HIRD,Hurd of Interfaces Representing Depth,Loop_Recursive,Canonical,1990,GNU Project,Architecture,High,Self-reference,of,Arch concept
+10,TINT,TINT Is Not TECO,Full_Recursive,Origin,1977,MIT AI Lab,Editor,High,Humor,Not,First known
+11,EINE,EINE Is Not EMACS,Full_Recursive,Origin,1978,MIT AI Lab,Editor,High,Humor,Not,EMACS predecessor
+12,ZWEI,ZWEI Was EINE Initially,Full_Recursive,Origin,1978,MIT AI Lab,Editor,High,Humor,Was,EINE successor
+13,YAF,Yet Another Framework,Full_Recursive,Community,2000s,Open Source,Framework,Medium,Humor,Yet Another,Meta acronym
+14,SASS,Syntactically Awesome Style Sheets,Self_Referential,Canonical,2006,Hampton Catlin,Web,High,Self-praise,Syntactically,CSS preprocessor
+15,LESS,Leaner Style Sheets (LESS Is Not CSS),Partial_Recursive,Debated,2009,Alexis Sellier,Web,Medium,Positioning,Is Not,CSS preprocessor
+16,RUBY,Ruby Is Not Y-Marker,Partial_Recursive,Folklore,1995,Yukihiro Matsumoto,Language,Low,Unknown,Is Not,Programming language
+17,RPM,RPM Package Manager (RPM Package Manager),Loop_Recursive,Debated,1995,Red Hat,Package,Medium,Humor,Package Manager,Package manager
+18,WAIS,Wide Area Information Servers,Self_Referential,Canonical,1989,CNRI,Protocol,High,Self-reference,Self,Info system
+19,MAME,Multiple Arcade Machine Emulator,Self_Referential,Canonical,1997,Nicola Salmoria,Gaming,High,Self-reference,Self,Emulator
+20,MUMPS,Massachusetts General Hospital MUMPS Programming System,Self_Referential,Canonical,1966,MGH,Hospital,Medium,Origin,Self,Medical language
+21,VIM,Vi IMproved (IMproved),Self_Referential,Canonical,1991,Bram Moolenaar,Editor,High,Self-improvement,IM,Text editor
+22,GRUB,GRand Unified Bootloader,Self_Referential,Canonical,1995,Erich Boley,Boot,High,Self-reference,Grand,Bootloader
+23,CSS,Cascading Style Sheets,Self_Referential,Canonical,1994,Hakon Lie,Web,High,Self-reference,Cascading,Web styling
+24,XAML,eXtensible Application Markup Language,Partial_Recursive,Modern,2006,Microsoft,UI,Medium,Positioning,X-,UI markup
+25,RISC,RISC Instruction Set Computer,Self_Referential,Canonical,1980s,Berkeley,Hardware,High,Self-reference,Self,CPU architecture
+26,CISC,Complex Instruction Set Computer,Self_Referential,Canonical,1980s,IBM,Hardware,High,Self-reference,Complex,CPU architecture
+27,AJAX,Asynchronous JavaScript and XML,Self_Referential,Modern,2005,Jesse Garrett,Web,High,Self-reference,Asynchronous,Web tech
+28,.NET,NETwork Domain,Self_Referential,Corporate,2002,Microsoft,Platform,Medium,Self-reference,NETwork,Platform
+29,LAMP,Linux Apache MySQL PHP,Self_Referential,Stack,1998,Open Source,Web,Medium,Acronym Stack,Self,Web stack
+30,MEAN,MongoDB Express Angular Node,Self_Referential,Stack,2010s,Open Source,Web,Medium,Acronym Stack,Self,Web stack
+31,MERN,MongoDB Express React Node,Self_Referential,Stack,2010s,Open Source,Web,Medium,Acronym Stack,Self,Web stack
+32,WAMP,Windows Apache MySQL PHP,Self_Referential,Stack,2000s,Open Source,Web,Low,Acronym Stack,Self,Web stack
+33,LLVM,Low Level Virtual Machine,Self_Referential,Canonical,2003,Chris Lattner,Compiler,High,Self-reference,Low Level,Compiler infra
+34,ESLint,ECMAScript Lint,Self_Referential,Modern,2013,Nicholas Zakas,Tool,High,Self-reference,Self,JS linter
+35,BABEL,Babel (transpiler name),Self_Referential,Meta,2014,Sebastian McKenzie,Compiler,Medium,Metaphorical,Self,JS transpiler
+36,MIME,Multipurpose Internet Mail Extensions,Self_Referential,Canonical,1991,Nathaniel Borenstein,Protocol,High,Self-reference,Multipurpose,Email standard
+37,YARN,Yet Another Resource Negotiator,Full_Recursive,Modern,2012,Apache,Hadoop,Medium,Humor,Yet Another,Hadoop component
+38,Zookeeper,Zookeeper ( ZooKeeper),Self_Referential,Modern,2008,Apache,Distributed,Medium,Humor,Self,Coordination service
+39,Elasticsearch,Elasticsearch (Elastic+Search),Self_Referential,Modern,2010,Shay Bannon,Search,Medium,Self-reference,Self,Search engine
+40,Kubernetes,Kubernetes (Greek for helmsman),Self_Referential,Modern,2014,Google,Container,Medium,Etymology,Self,Container orchestrator
+41,Jenkins,Jenkins (jenkins=guardian),Self_Referential,Folklore,2011,Kohsuke Kawaguchi,CI,Medium,Origin,Self,CI server
+42,Go,Go (Go language),Self_Referential,Canonical,2009,Google,Language,High,Simplicity,Self,Language
+43,Rust,Rust (rust=corrosion),Self_Referential,Folklore,2010,Graydon Hoare,Language,Medium,Etymology,Self,Language
+44,Kotlin,Kotlin (island name),Self_Referential,Corporate,2011,JetBrains,Language,Medium,Etymology,Self,Language
+45,CoffeeScript,CoffeeScript (Coffee+Script),Self_Referential,Modern,2009,Jeremy Ashkenas,Language,Medium,Theme,Self,JS alternative
+46,YARN,Yet Another Resource Negotiator,Full_Recursive,Apache,2012,Apache,BigData,Medium,Humor,Yet Another,Hadoop
+47,Kubernetes,Kubernetes (Pilot/Greek),Self_Referential,Canonical,2015,Google,Cloud,High,Etymology,Self,Orchestration
+48,Spark,Spark (lightning spark),Self_Referential,Canonical,2010,Apache,BigData,High,Metaphor,Self,Computing framework
+49,Cassandra,Cassandra (Greek myth),Self_Referential,Folklore,2008,Apache,Database,Medium,Etymology,Self,Database
+50,Hadoop,Hadoop (toy elephant name),Self_Referential,Folklore,2006,Doug Cutting,BigData,Medium,Etymology,Self,Framework
+51,Docker,Docker (dock worker),Self_Referential,Modern,2013,Docker Inc,Container,High,Metaphor,Self,Container platform
+52,Swift,Swift (bird),Self_Referential,Corporate,2014,Apple,Language,Medium,Metaphor,Self,Language
+53,Rails,Ruby on Rails,Self_Referential,Canonical,2004,DHH,Framework,High,Metaphor,Self,Web framework
+54,Spark,Apache Spark,Self_Referential,Apache,2010,Apache,BigData,High,Self,In-memory computing
+55,Flink,Flink (nimble),Self_Referential,Apache,2014,Apache,BigData,Medium,German word,Self,Stream processing
+56,Zeppelin,Apache Zeppelin (airship),Self_Referential,Apache,2015,Apache,Notebook,Medium,Metaphor,Self,Notebook
+57,Hive,Apache Hive,Self_Referential,Apache,2008,Facebook,BigData,Medium,Self,Data warehouse
+58,Pig,Apache Pig,Self_Referential,Apache,2006,Yahoo,BigData,Medium,Animal metaphor,Self,Data flow
+59,Mahout,Apache Mahout (rider),Self_Referential,Apache,2009,Apache,ML,Medium,Sanskrit word,Self,ML library
+60,Tika,Apache Tika (tika=cheerful),Self_Referential,Apache,2008,Apache,Content,Medium,Etymology,Self,Content detection
+61,Nutch,Apache Nutch,Self_Referential,Apache,2002,Apache,Search,Medium,Self,Web crawler
+62,Solr,Solr (solution),Self_Referential,Apache,2005,Apache,Search,Medium,Self,Search platform
+63,Sqoop,Sqoop (sql+to+hadoop),Full_Recursive,Apache,2012,Apache,BigData,Medium,Humor,sql+to+hadoop,Data transfer
+64,Flume,Apache Flume,Self_Referential,Apache,2009,Apache,Streaming,Medium,Animal metaphor,Self,Data collection
+65,Kafka,Apache Kafka (writer),Self_Referential,Modern,2011,LinkedIn,Streaming,High,Self,Streaming platform
+66,Storm,Apache Storm,Self_Referential,Apache,2011,Twitter,Streaming,Medium,Weather metaphor,Self,Streaming
+67,Druid,Druid (priest),Self_Referential,Apache,2011,Apache,Analytics,Medium,Etymology,Self,OLAP
+68,Atlas,Apache Atlas,Self_Referential,Apache,2015,Apache,Governance,Medium,Greek hero,Self,Metadata
+69,Ambari,Apache Ambari,Self_Referential,Apache,2012,Apache,Management,Medium,Management,Self,Management
+70,Ranger,Apache Ranger,Self_Referential,Apache,2016,Apache,Security,Medium,Guardian,Self,Security
+71,Knox,Apache Knox,Self_Referential,Apache,2013,Apache,Gateway,Medium,Gateway,Self,Gateway
+72,Oozie,Oozie (workflow),Self_Referential,Apache,2012,Apache,Workflow,Medium,Humor,Self,Workflow
+73,Zeppelin,Apache Zeppelin,Self_Referential,Apache,2015,Apache,Notebook,Medium,Airship,Self,Notebook
+74,Impala,Impala (antelope),Self_Referential,Apache,2012,Cloudera,Query,Medium,Animal metaphor,Self,SQL engine
+75,HBase,HBase (Hadoop Database),Self_Referential,Apache,2008,Apache,NoSQL,High,Project prefix,Self,NoSQL
